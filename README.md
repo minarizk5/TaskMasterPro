@@ -1,3 +1,4 @@
+![Project Screenshot](./images/my-photo.png)
 # TaskMasterPro
 
 Your complete task management solution.
