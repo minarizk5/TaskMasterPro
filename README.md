@@ -1,8 +1,7 @@
-<img src="./images/my-photo.png" alt="Project Screenshot" width="300"/>
-<img src="./images/my-photo1.png" alt="Project Screenshot" width="300"/>
-<img src="./images/my-photo2.png" alt="Project Screenshot" width="300"/>
-<img src="./images/my-photo3.png" alt="Project Screenshot" width="300"/>
-
+| ![Photo 1](./images/my-photo1.png) | ![Photo 2](./images/my-photo2.png) | ![Photo 3](./images/my-photo3.png) |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| ![Photo 1](./images/my-photo4.png) | ![Photo 2](./images/my-photo5.png) | ![Photo 3](./images/my-photo.png) |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
 # TaskMasterPro
 
 Your complete task management solution.
