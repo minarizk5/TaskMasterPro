@@ -1,4 +1,8 @@
-![Project Screenshot](./images/my-photo.png)
+<img src="./images/my-photo.png" alt="Project Screenshot" width="300"/>
+<img src="./images/my-photo1.png" alt="Project Screenshot" width="300"/>
+<img src="./images/my-photo2.png" alt="Project Screenshot" width="300"/>
+<img src="./images/my-photo3.png" alt="Project Screenshot" width="300"/>
+
 # TaskMasterPro
 
 Your complete task management solution.
